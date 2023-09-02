@@ -5,11 +5,11 @@ This project analyzes a survey of programmers. The data was collected using Goog
 Libraries Used
 The following libraries were used for this project:
 
-Pandas: For data manipulation and analysis
-NumPy: For mathematical operations
-Matplotlib: For creating visualizations
-Seaborn: For creating more advanced visualizations
-Power BI: For creating dashboards
+1.Pandas: For data manipulation and analysis
+2.NumPy: For mathematical operations
+3.Matplotlib: For creating visualizations
+4.Seaborn: For creating more advanced visualizations
+
 Data Exploration
 The first step in the analysis was to explore the data. This involved looking at the data types, missing values, and distributions of the data.
 
@@ -19,12 +19,13 @@ After exploring the data, some cleaning was necessary. This involved removing mi
 Data Analysis
 The data was then analyzed to answer the following questions:
 
-What are the demographics of programmers?
-What are the most popular programming languages?
-What are the most in-demand skills for programmers?
-What are the salary expectations of programmers?
-Dashboard
+1.What are the demographics of programmers?
+2.What are the most popular programming languages?
+3.What are the most in-demand skills for programmers?
+4.What are the salary expectations of programmers?
+
+Dashboard:
 A dashboard was created using Power BI to visualize the results of the analysis. The dashboard can be found at [link to dashboard].
 
-Conclusion
+Conclusion:
 This project analyzed a survey of programmers to gain insights into their demographics, skills, and experience. The results of the analysis can be used to help employers and programmers make better decisions.
