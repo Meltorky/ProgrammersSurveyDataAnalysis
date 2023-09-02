@@ -5,10 +5,10 @@ This project analyzes a survey of programmers. The data was collected using Goog
 Libraries Used
 The following libraries were used for this project:
 
-1.Pandas: For data manipulation and analysis
-2.NumPy: For mathematical operations
-3.Matplotlib: For creating visualizations
-4.Seaborn: For creating more advanced visualizations
+1.Pandas: For data manipulation and analysis.
+2.NumPy: For mathematical operations.
+3.Matplotlib: For creating visualizations.
+4.Seaborn: For creating more advanced visualizations.
 
 Data Exploration
 The first step in the analysis was to explore the data. This involved looking at the data types, missing values, and distributions of the data.
